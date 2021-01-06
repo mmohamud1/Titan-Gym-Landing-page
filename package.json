@@ -1,0 +1,22 @@
+{
+  "name": "titan-gym-landing-page",
+  "version": "1.0.0",
+  "description": "This landing page is fully responsive with all devices and was created using HTML CSS and Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmohamud1/Titan-Gym-Landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmohamud1/Titan-Gym-Landing-page/issues"
+  },
+  "homepage": "https://github.com/mmohamud1/Titan-Gym-Landing-page#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
